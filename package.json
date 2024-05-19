@@ -1,0 +1,15 @@
+{
+  "name": "js-week6-assignment",
+  "version": "1.0.0",
+  "description": "project for week 6 of js",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.4.0"
+  }
+}
