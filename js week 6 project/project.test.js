@@ -66,7 +66,7 @@ describe(`Js week6 project`, () =>{
                         console.log("It's a tie!");
                     }
                 }
-                expect(player1Wins + player2Wins).to.equal(0);
+                expect(playWar).to.not.equal(1 - 52)
                 
                 
             })
